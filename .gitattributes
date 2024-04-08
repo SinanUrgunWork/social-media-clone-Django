@@ -1,0 +1,5 @@
+# Mark everything as vendored
+* linguist-vendored
+
+# Except for Python files
+*.py linguist-vendored=false
